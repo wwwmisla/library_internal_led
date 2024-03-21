@@ -1,0 +1,5 @@
+InternalLed		KEYWORD1
+
+acendeLed		KEYWORD2
+apagaLed		KEYWORD2
+setDelay		KEYWORD2
