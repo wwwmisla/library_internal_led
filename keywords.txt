@@ -1,5 +1,5 @@
 InternalLed		KEYWORD1
 
+begin           KEYWORD2
 acendeLed		KEYWORD2
 apagaLed		KEYWORD2
-setDelay		KEYWORD2
