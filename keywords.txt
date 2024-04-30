@@ -1,5 +1,16 @@
-InternalLed		KEYWORD1
+# Este arquivo define palavras-chave e sintaxe para a biblioteca InternalLed.
 
-begin           KEYWORD2
-acendeLed		KEYWORD2
-apagaLed		KEYWORD2
+# Sintaxe:
+# palavra_chave     TIPO; Descrição
+
+# Palavras-chave e Descrições
+InternalLed		KEYWORD1; Biblioteca para controlar um LED interno.
+
+# Funções de Controle
+begin           KEYWORD2; Inicia a biblioteca InternalLed.
+acendeLed		KEYWORD2; É utilizado para ligar o LED.
+apagaLed		KEYWORD2; É utilizado para desligar o LED.
+
+# Tipos
+KEYWORD1            RESERVED_KEYWORD
+KEYWORD2            RESERVED_KEYWORD
