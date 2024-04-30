@@ -1,7 +1,7 @@
 # Biblioteca Internal LED (LED Interno)
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM+DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDA&color=GREEN&style=for-the-badge)
 
 <div style="display: inline_block">
 
@@ -129,6 +129,6 @@ Para mais informações de como o código funciona, <a href="./Examples/Internal
 </div>
 
 # :card_index_dividers: Licença
-Licença MIT. Para mais informações sobre a licença, <a href="/LICENSE">Clique aqui</a>
+Licença MIT. Para mais informações sobre a licença, <a href="./LICENSE">Clique aqui</a>
 
 <img src="https://github.com/umroboporaluno/.github/blob/main/profile/ura-logo.png" alt="URA Logo" width="100" align="right" />
